@@ -12,5 +12,5 @@ The following libraries and frameworks were used in the project:
 4. `Matplotlib` - For visualizing images.
 5. `PyTorch` - For creating and training the models.
 
-# Modelos
+# Models
 For detecting the bounding boxes of traffic lights, a pre-trained `fasterrcnn_resnet50_fpn` model was used. For classifying the traffic light signal, a convolutional neural network (CNN) was created using PyTorch.
